@@ -493,6 +493,7 @@ header .title-header p:nth-child(2) {
 .copyright h3{
   margin: 0;
   padding: 10px  20px;
+  text-align: center
 }
 
 /* 
